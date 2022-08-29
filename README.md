@@ -2,7 +2,7 @@
 
 <h3> Il task chiedeva di realizzare un sistema di messaggistica criptata end to end: basato su database NoSQL (si è deciso di usare MongoDB) e back-end in Laravel. Per la comunicazione si è deciso di usare l'API Pusher. In più si è realizzato un front-end minimale in JS usando Vue. </h3>
 
-# Installation
+# Configurazione
 1. Clona la repository:
 ```
 git clone https://github.com/vinzcamp8/task_laravel_chat_realtime.git
